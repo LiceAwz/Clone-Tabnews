@@ -1,0 +1,9 @@
+node_modules/
+# Ignorar diretórios de compilação
+dist/
+build/
+out/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
